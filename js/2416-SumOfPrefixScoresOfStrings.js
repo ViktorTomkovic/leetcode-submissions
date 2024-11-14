@@ -41,7 +41,7 @@ console.log(sumPrefixScores(words));
 
 var words = ["abcd"];
 console.log(sumPrefixScores(words));
-import { lw, pw } from "2416-longInput";
+import { lw, pw } from "./2416-longInput.js";
 var a1 = performance.now()
 console.log(sumPrefixScores(lw));
 var a2 = performance.now();
