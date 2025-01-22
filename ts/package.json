@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "lodash": "^4.17.21"
+    "@datastructures-js/deque": "1.0.4",
+    "@datastructures-js/priority-queue": "5.4.0",
+    "lodash": "4.17.21"
   }
 }
